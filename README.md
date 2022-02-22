@@ -4,7 +4,7 @@
 
 <a>
 
-  <a href="https://github.com/YiChong-Liu">    <img width="60%" height="60%" align="right" alt="Yichong Liu's github stats" src="https://github-readme-stats.vercel.app/api?username=YiChong-Liu&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />  </a>
+  <a href="https://github.com/YiChong-Liu">    <img width="80%" height="80%" align="right" alt="Yichong Liu's github stats" src="https://github-readme-stats.vercel.app/api?username=YiChong-Liu&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />  </a>
 
   </a>
 
