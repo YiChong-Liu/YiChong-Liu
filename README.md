@@ -14,8 +14,13 @@ I'm Yichong Liu, a future software engineer and a senior majoring in Computer Sc
 
 
 
+<p align="center">
+
 <a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yichong-Liu&layout=compact)](https://github.com/Yichong-Liu)
 
 </a>
+
+</p>
+
