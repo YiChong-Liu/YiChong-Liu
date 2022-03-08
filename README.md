@@ -8,7 +8,7 @@
 
   </a>
 
-I'm Yichong Liu, a future software engineer and a senior majoring in Computer Science at UMass Amherst. I'm totally commited to enrich my tech stacks and develop better software-solutions to maintain competence in my role. My interests mainly lie in software engineering, and I'm learning ML as well. I've taken a wide range of courses related to programming, systems, ML and mathematics. I also have interests in learning Mathematics (with a minor) and Economics. Feel free to check my repos here and reach out to me if you have any questions. Thanks!
+I'm Yichong Liu, a future software engineer and a senior majoring in Computer Science at UMass Amherst. I'm totally commited to enrich my tech stacks and develop better software-solutions to maintain competence in my role. My interests mainly lie in software engineering, and I'm learning ML as well. I've taken a wide range of courses related to programming, systems, ML and mathematics. I also have interests in learning Mathematics (with a minor) and Economics. Feel free to check my work here and reach out to me if you have any questions. Thanks for reading!
 
 </p>
 
