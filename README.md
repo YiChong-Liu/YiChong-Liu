@@ -9,13 +9,13 @@ I'm Yichong Liu, a future software engineer and a senior majoring in Computer Sc
 
 ###                                          																										What I've known so far
 
-|    Level/ Category     |             Tech Stack / Framework              |
-| :--------------------: | :---------------------------------------------: |
-|     **Proficient**     |      C/C++, Java, python, Javascript, SQL       |
-|     **Familliar**      |         Html/CSS, Matlab, Android, XML          |
-|     **Front End**      |        HTML, CSS(Bootstrap), JavaScript         |
-|      **Back End**      | Springboot, Mybatis, Node.js, MySQL, PostgreSQL |
-|  **Machine Learning**  |       PyTorch, numpy, pandas, Tensorflow        |
-|  **Markup Language**   |                 Markdown, Latex                 |
-| **Project Management** |               Git, Github, Maven                |
-
+|    Level/ Category     |                 Tech Stack / Framework                  |
+| :--------------------: | :-----------------------------------------------------: |
+|     **Proficient**     |          C/C++, Java, python, Javascript, SQL           |
+|     **Familliar**      |             Html/CSS, Matlab, Android, XML              |
+|     **Front End**      |            HTML, CSS (Bootstrap), JavaScript            |
+|      **Back End**      |     Springboot, Mybatis, Node.js, MySQL, PostgreSQL     |
+|  **Machine Learning**  |           PyTorch, numpy, pandas, Tensorflow            |
+|  **Markup Language**   |                     Markdown, Latex                     |
+| **Project Management** |                   Git, Github, Maven                    |
+|        **IDE**         | VSCode, Eclipse, VStudio, IDEA, Android Studio, Pycharm |
