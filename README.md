@@ -1,7 +1,8 @@
 ### Hi there! 👋 
 
 <p>
-I'm Yichong Liu, a software developer and a senior undergraduate student majoring in Computer Science at UMass Amherst. I'm totally commited to enrich my tech stacks and develop better software-solutions to maintain competence in my role. My interests mainly lie in software engineering, and I've done some interesting projects. I've taken a wide range of courses related to programming, systems, ML and mathematics. I also have interests in learning Mathematics (with a minor) and Economics. Feel free to check my work here and reach out to me if you have any questions!
+I'm Yichong Liu, a software developer and a senior undergraduate student majoring in Computer Science at UMass Amherst. I'm totally commited to enrich my tech stacks and develop better software-solutions to maintain competence in my role. My interests mainly lie in software engineering, and I've done some interesting projects. I've taken a wide range of courses related to programming, systems, ML and mathematics. I also have interests in learning Mathematics (with a minor) and Economics. Feel free to check my work here and also my portfolio: <a href="https://yichong-liu.github.io/">Yichong Liu</a>. Please reach out to me if you have any questions!
+
 
 
 
