@@ -16,8 +16,8 @@ I'm Yichong Liu, a software developer and a senior undergraduate student majorin
 |    Level/ Category     |               Tech Stack / Framework               |
 | :--------------------: | :------------------------------------------------: |
 |     **Proficient**     |        C/C++, Java, Python, Javascript, SQL        |
-|     **Familliar**      |           Html/CSS, MATLAB, Android, XML           |
-|     **Front End**      |         HTML, CSS (Bootstrap), JavaScript          |
+|     **Familliar**      |          Html, CSS, MATLAB, Android, XML           |
+|     **Front End**      |                Bootstrap, React.js                 |
 |      **Back End**      |  Springboot, Mybatis, Node.js, MySQL, PostgreSQL   |
 |  **Machine Learning**  |         PyTorch, Numpy, Pandas, Tensorflow         |
 |  **Markup Language**   |                  Markdown, LaTex                   |
