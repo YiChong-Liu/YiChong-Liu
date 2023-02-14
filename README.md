@@ -21,6 +21,6 @@ I'm Yichong Liu, a software developer and a senior undergraduate student majorin
 |      **Back End**      |  Springboot, Mybatis, Node.js, MySQL, PostgreSQL   |
 |  **Machine Learning**  |         PyTorch, Numpy, Pandas, Tensorflow         |
 |  **Markup Language**   |                  Markdown, LaTex                   |
-| **Project Management** |            Git, Github, Maven, Postman             |
+| **Project Management** |            Git, Docker, Maven, Postman             |
 |        **IDE**         | VSCode, Eclipse, VS, IDEA, Android Studio, Pycharm |
 
