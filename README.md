@@ -1,11 +1,7 @@
 ### Hi there! 👋 
 
 <p>
-I'm Yichong Liu, a software engineer totally commited to enrich my tech stacks and develop better software-solutions to maintain competence in my role. I recently graduated with a Bachelor of Science in Computer Science from the University of Massachusetts Amherst. I'm currently applying for Master's programs in Computer Science for the Fall 2024 intake. My interests mainly lie in software engineering, and I've done some interesting projects. I've taken a wide range of courses related to programming, systems, ML and mathematics. I also spend some time learning Mathematics (with a minor) and Economics. Feel free to check my work here and also my portfolio: <a href="https://www.yichongliu.com/">Yichong Liu</a>. Please reach out to me if you have any questions!
-
-
-
-
+I'm currently a master student in computer science at <a href="https://illinois.edu/">UIUC</a>. I held a BS in computer science from <a href="https://www.umass.edu/">UMass Amherst</a> Check my portfolio: <a href="https://www.yichongliu.com/">Yichong Liu</a>. </p>
 
 ![](https://komarev.com/ghpvc/?username=YiChong-Liu)
 
